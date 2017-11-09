@@ -3,7 +3,7 @@ Given an audio file containing the speach of a person, our goal is to verify the
 
 ## Getting Started
 
-Since we are working on audio data, it terns out that the Convolutional Neural Networks give better results.
+Since we are working on audio data, it turns out that the Convolutional Neural Networks give better results.
 
 ### Prerequisites
 
